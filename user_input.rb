@@ -1,4 +1,4 @@
-puts "Please type your name and press enter!"
+puts "Enter your name here"
 name = gets.chomp
 
-puts "Hello " + name + ', how are you?'
+puts " Hello " + name + ", How are you?"
